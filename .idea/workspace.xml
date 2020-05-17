@@ -5,10 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Geschiedenis.html" beforeDir="false" afterPath="$PROJECT_DIR$/Geschiedenis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Informatie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Informatie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kernpunten Wing Chun.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kernpunten Wing Chun.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kernpunten Wing Chun.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kernpunten Wing Chun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quiztime!.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/side-nav.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +66,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="734" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589626374891" />
+    <state x="804" y="114" key="CommitChangelistDialog2" timestamp="1589759394969">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="804" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1589759394969" />
     <state x="1102" y="435" key="Github.CreateGistDialog" timestamp="1589626657188">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -84,9 +86,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="662" y="221" key="new project wizard/0.0.2560.1040@0.0.2560.1040" timestamp="1589626799365" />
-    <state x="936" y="240" key="run.anything.popup" timestamp="1589626676138">
+    <state x="936" y="240" key="run.anything.popup" timestamp="1589759326513">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="936" y="240" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1589626676138" />
+    <state x="936" y="240" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1589759326513" />
   </component>
 </project>
