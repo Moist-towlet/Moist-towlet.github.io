@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="457f4854-10da-42b0-acf1-38f20820b77d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Geschiedenis.html" beforeDir="false" afterPath="$PROJECT_DIR$/Geschiedenis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Informatie.html" beforeDir="false" afterPath="$PROJECT_DIR$/Informatie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kernpunten Wing Chun.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kernpunten Wing Chun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiztime!.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/side-nav.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +41,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sjors.HUZZAHHIMOTJISE\IdeaProjects\HTML website\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sjors.HUZZAHHIMOTJISE\IdeaProjects\Moist-towlet.github.io-master" />
       <recent name="C:\Users\sjors.HUZZAHHIMOTJISE\IdeaProjects\HTML website\src" />
       <recent name="C:\Users\sjors.HUZZAHHIMOTJISE\IdeaProjects\HTML website" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sjors.HUZZAHHIMOTJISE\IdeaProjects\HTML website\src" />
     </key>
   </component>
   <component name="SvnConfiguration">
