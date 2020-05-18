@@ -33,6 +33,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589759413670</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Addes images and made the paragraphs easier in the eyes">
+      <created>1589759542517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589759542518</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -74,10 +82,18 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="734" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589626374891" />
-    <state x="804" y="114" key="CommitChangelistDialog2" timestamp="1589759541052">
+    <state x="804" y="114" key="CommitChangelistDialog2" timestamp="1589759773898">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="804" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1589759541052" />
+    <state x="804" y="114" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1589759773898" />
+    <state x="246" y="86" key="DiffContextDialog" timestamp="1589759743913">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="246" y="86" key="DiffContextDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589759743913" />
+    <state x="1060" y="274" key="FileChooserDialogImpl" timestamp="1589760138519">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="274" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1589760138519" />
     <state x="1102" y="435" key="Github.CreateGistDialog" timestamp="1589626657188">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -86,10 +102,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="860" y="262" key="IDE.errors.dialog/0.0.2560.1040@0.0.2560.1040" timestamp="1589753587793" />
-    <state x="760" y="94" key="SettingsEditor" timestamp="1589626216208">
+    <state x="760" y="94" key="SettingsEditor" timestamp="1589788657430">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="760" y="94" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589626216207" />
+    <state x="760" y="94" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1589788657430" />
     <state x="872" y="252" key="Vcs.Push.Dialog.v2" timestamp="1589759546526">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
